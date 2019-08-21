@@ -34,7 +34,7 @@
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.2",
-    "es6-promise": "^3.2.1",
+    "es6-promise": "^4.2.8",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "gulp-flatten": "^0.2.0",
