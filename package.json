@@ -33,7 +33,7 @@
   "author": "Microsoft",
   "license": "MIT",
   "devDependencies": {
-    "del": "^2.2.2",
+    "del": "^5.1.0",
     "es6-promise": "^3.2.1",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
